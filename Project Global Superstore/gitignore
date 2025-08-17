@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data (we keep raw data under version control in this repo)
+# If you prefer to exclude raw data later, uncomment the two lines below.
+# data/raw/*
+# !data/sample/*
+
+# Power BI temp/cache
+*.pbix.tmp
+*.pbix16.cache
+
+# OS/Editors
+.DS_Store
+Thumbs.db
