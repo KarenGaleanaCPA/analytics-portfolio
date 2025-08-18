@@ -11,8 +11,7 @@ A concise, end-to-end analytics portfolio that pairs **Python** data prep/analys
 
 ## 🔎 Quick Preview
 
-![Overview](reports/images/overview.png)
-
+![Overview](analytics-portfolio/reports/images/overview.png)
 ---
 
 ## 🔧 Quick Start — Python
@@ -110,25 +109,25 @@ requirements.txt
 ## 📸 Screenshots — what to look for
 
 **Overview**
-![Overview](reports/images/overview.png)
+![Overview](analytics-portfolio/reports/images/overview.png)
 - Check **Profit Margin %** vs **Return Rate %** at a glance.
 - Use the **map** to spot large markets with **low margin or high returns**.
 - Country table shows **category mix**; look for skew (e.g., Tech-heavy).
 
 **Profitability**
-![Profitability](reports/images/profitability.png)
+![Profitability](analytics-portfolio/reports/images/profitability.png)
 - Category/Sub-Category bars show **margin by mix**; negative bars flag problem areas.
 - The **scatter** highlights **high-sales, low-margin** products (fix pricing/discounts).
 - Product table surfaces top items with **profit %** for ranking.
 
 **Returns**
-![Returns](reports/images/returns.png)
+![Returns](analytics-portfolio/reports/images/returns.png)
 - **Return Rate %** by Market × Category shows where policies/suppliers need attention.
 - **Top 15 countries** exposes concentration (where to act first).
 - Treemap shows **sub-categories** with the most returns (QA/packaging focus).
 
 **Operations (Shipping)**
-![Operations](reports/images/operations.png)
+![Operations](analytics-portfolio/reports/images/operations.png)
 - **On‑Time %** trend vs reference; watch for quarters below target.
 - Ship Mode bars compare **Late % vs On‑Time %**; locate the worst carrier class.
 - **Top 10 late countries** guides routing or inventory changes.
